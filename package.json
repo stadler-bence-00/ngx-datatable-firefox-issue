@@ -26,10 +26,5 @@
     "@angular/compiler": "17.3.10",
     "@angular/compiler-cli": "17.3.10",
     "typescript": "5.2.2"
-  },
-  "overrides": {
-    "@angular-devkit/build-angular": {
-      "piscina": "~4.2.0"
-    }
   }
 }
